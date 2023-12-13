@@ -1,0 +1,3 @@
+Guessed emotion: Neutral Correct emotion: Neutral
+Guessed emotion: Happy Correct emotion: Happy
+Guessed emotion: Neutral 
