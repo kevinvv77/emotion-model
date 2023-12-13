@@ -47,3 +47,6 @@ def detect_emotions(seconds):
     video.release()
     cv2.destroyAllWindows()
     return detectedEmotions
+
+if __name__ == '__main__':
+    detect_emotions(20)
